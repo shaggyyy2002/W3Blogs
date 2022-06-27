@@ -1,17 +1,1 @@
-<svg width="147" height="184" viewBox="0 0 147 184" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_d_127_15)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M165.053 28.2039L158 24.1321C153.05 21.274 146.95 21.274 142 24.1321L134.947 28.2039C129.997 31.062 126.947 36.3441 126.947 42.0603V46.1321H40C21.1438 46.1321 11.7157 46.1321 5.85786 51.99C0 57.8478 0 67.2759 0 86.1321V182.132H200V86.1321C200 67.2759 200 57.8478 194.142 51.99C189.828 47.6761 183.578 46.5391 173.053 46.2394V42.0603C173.053 36.3441 170.003 31.062 165.053 28.2039ZM169.053 46.1633V42.0603C169.053 37.7731 166.765 33.8116 163.053 31.668L156 27.5962C152.287 25.4526 147.713 25.4526 144 27.5962L136.947 31.668C133.235 33.8116 130.947 37.7731 130.947 42.0603V46.1321H160C163.295 46.1321 166.302 46.1321 169.053 46.1633Z" fill="#393D5E"/>
-</g>
-<defs>
-<filter id="filter0_d_127_15" x="-20" y="0.988525" width="240" height="200.144" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="-1"/>
-<feGaussianBlur stdDeviation="10"/>
-<feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_127_15"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_127_15" result="shape"/>
-</filter>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="147" height="184" fill="none" viewBox="0 0 147 184"><g filter="url(#filter0_d_127_15)"><path fill="#393D5E" fill-rule="evenodd" d="M165.053 28.2039L158 24.1321C153.05 21.274 146.95 21.274 142 24.1321L134.947 28.2039C129.997 31.062 126.947 36.3441 126.947 42.0603V46.1321H40C21.1438 46.1321 11.7157 46.1321 5.85786 51.99C0 57.8478 0 67.2759 0 86.1321V182.132H200V86.1321C200 67.2759 200 57.8478 194.142 51.99C189.828 47.6761 183.578 46.5391 173.053 46.2394V42.0603C173.053 36.3441 170.003 31.062 165.053 28.2039ZM169.053 46.1633V42.0603C169.053 37.7731 166.765 33.8116 163.053 31.668L156 27.5962C152.287 25.4526 147.713 25.4526 144 27.5962L136.947 31.668C133.235 33.8116 130.947 37.7731 130.947 42.0603V46.1321H160C163.295 46.1321 166.302 46.1321 169.053 46.1633Z" clip-rule="evenodd"/></g><defs><filter id="filter0_d_127_15" width="240" height="200.144" x="-20" y=".989" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feColorMatrix in="SourceAlpha" result="hardAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/><feOffset dy="-1"/><feGaussianBlur stdDeviation="10"/><feComposite in2="hardAlpha" operator="out"/><feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/><feBlend in2="BackgroundImageFix" mode="normal" result="effect1_dropShadow_127_15"/><feBlend in="SourceGraphic" in2="effect1_dropShadow_127_15" mode="normal" result="shape"/></filter></defs></svg>
