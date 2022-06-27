@@ -1,0 +1,260 @@
+.exploreB {
+  position: absolute;
+  top: 12px;
+  left: 16px;
+  display: inline-block;
+}
+.headerDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  box-shadow: 0-1px 0 rgba(255, 255, 255, 0.1) inset;
+  width: 244px;
+  height: 44px;
+  overflow: hidden;
+  font-size: 17px;
+  color: #fff;
+  font-family: Lato;
+}
+.maxWidthOrHeight2x28pt {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.maxWidthOrHeight2x28pt,
+.rectangleDiv1,
+.targetSize2x25ptX25pt {
+  background-color: #ff3b30;
+  opacity: 0.3;
+  mix-blend-mode: normal;
+}
+.rectangleDiv1 {
+  position: absolute;
+  height: 89.29%;
+  width: 89.29%;
+  top: 5.36%;
+  right: 5.36%;
+  bottom: 5.36%;
+  left: 5.36%;
+}
+.targetSize2x25ptX25pt {
+  position: relative;
+  width: 15.27px;
+  height: 15.27px;
+}
+.sizeGuideDiv {
+  position: absolute;
+  height: 63.64%;
+  width: 63.64%;
+  top: 18.18%;
+  right: 18.18%;
+  bottom: 18.18%;
+  left: 18.18%;
+  display: none;
+}
+.symbol {
+  position: absolute;
+  top: calc(50% - 8.5px - 0.5px);
+  left: calc(50% - 8.5px - 0.5px);
+  letter-spacing: 0.36px;
+  display: inline-block;
+}
+.cagetoriesExploreDiv {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.homeDiv {
+  position: relative;
+  font-size: 15px;
+  letter-spacing: 0.36px;
+  font-family: Lato;
+  display: inline-block;
+}
+.frameDiv1 {
+  position: absolute;
+  top: 8px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0 8px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameDiv1 > * + * {
+  margin-left: 8px;
+}
+.selectedDiv {
+  position: relative;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 212px;
+  height: 40px;
+  flex-shrink: 0;
+  overflow: hidden;
+  color: #fff;
+  font-family: SF Pro Display;
+}
+.symbolDiv {
+  position: absolute;
+  top: calc(50% - 7px - 2px);
+  left: calc(50% - 0px - 6px);
+  display: inline-block;
+}
+.myFeedDiv {
+  position: relative;
+  border-radius: 5px;
+  width: 212px;
+  height: 40px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.symbolDiv1 {
+  position: absolute;
+  top: calc(50% - 7px - 2px);
+  left: calc(50% - 0px - 12px);
+  display: inline-block;
+}
+.exploreDiv {
+  position: relative;
+  font-size: 15px;
+  letter-spacing: 0.36px;
+  font-family: Lato;
+  color: #fff;
+  display: inline-block;
+}
+.symbolDiv2,
+.symbolDiv3 {
+  position: absolute;
+  top: calc(50% - 7px - 2px);
+  left: calc(50% - 0px - 11px);
+  display: inline-block;
+}
+.symbolDiv3 {
+  left: calc(50% - 0px - 8px);
+}
+.frameDiv,
+.frameDiv7 {
+  position: absolute;
+  display: flex;
+  justify-content: flex-start;
+}
+.frameDiv7 {
+  top: 8px;
+  left: 0;
+  flex-direction: row;
+  padding: 0 0 0 8px;
+  box-sizing: border-box;
+  align-items: center;
+}
+.frameDiv {
+  top: 56px;
+  left: 16px;
+  width: 212px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frameDiv > * + * {
+  margin-top: 8px;
+}
+.lineIcon {
+  position: absolute;
+  top: 389.5px;
+  left: 30px;
+  width: 203px;
+  height: 1px;
+}
+.frameDiv8 {
+  position: absolute;
+  top: 422px;
+  left: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameDiv8 > * + * {
+  margin-top: 8px;
+}
+.categoriesDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #2c2f48;
+  width: 298px;
+  height: 1024px;
+  overflow: hidden;
+}
+.profileIcon {
+  position: absolute;
+  top: 18.12px;
+  left: 19.5px;
+  border-radius: 4px;
+  width: 28.71px;
+  height: 32px;
+  object-fit: cover;
+}
+.x9838119565Ed822CB672E23Div {
+  position: absolute;
+  top: 11px;
+  left: 61px;
+  font-size: 11px;
+  font-weight: 900;
+  display: inline-block;
+  width: 164px;
+  height: 13px;
+}
+.rectangleDiv28,
+.rectangleDiv29 {
+  position: absolute;
+  top: 37px;
+  left: 61px;
+  border-radius: 3px;
+  background-color: #393d5e;
+  width: 46px;
+  height: 13px;
+}
+.rectangleDiv29 {
+  left: 143px;
+}
+.connectDiv,
+.disconnectDiv {
+  position: absolute;
+  top: calc(50% - 4px - -7px);
+  left: calc(50% - 13px - 42px);
+  display: inline-block;
+}
+.disconnectDiv {
+  left: calc(50% - 17.5px - -39.5px);
+}
+.frameDiv16 {
+  position: absolute;
+  top: 952px;
+  left: 0;
+  background-color: #1d203e;
+  box-shadow: -1px 0 0 rgba(255, 255, 255, 0.1) inset;
+  width: 298px;
+  height: 72px;
+  overflow: hidden;
+  font-size: 7px;
+  color: #fff;
+  font-family: Lato;
+}
+.sideMenuDiv {
+  position: relative;
+  border-radius: 13px;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.6);
+  font-family: Adobe Blank;
+}

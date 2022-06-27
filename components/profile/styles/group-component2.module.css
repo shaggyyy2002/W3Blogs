@@ -1,0 +1,529 @@
+.looperGroupDiv,
+.web3Bharat {
+  position: absolute;
+  width: 206px;
+  height: 20px;
+}
+.web3Bharat {
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.looperGroupDiv {
+  top: 56px;
+  left: 210px;
+  font-size: 24px;
+}
+.polygonIcon,
+.userProfilIcon {
+  position: absolute;
+  top: 71px;
+  left: 83.79px;
+  width: 152.42px;
+  height: 119.25px;
+}
+.userProfilIcon {
+  top: 57.27px;
+  left: 67.38px;
+  border-radius: 22px;
+  width: 109.01px;
+  height: 108.61px;
+  object-fit: cover;
+}
+.bioHereDiv,
+.followersDiv,
+.followingDiv {
+  position: absolute;
+  top: 100px;
+  left: 291px;
+  font-weight: 200;
+  display: inline-block;
+}
+.followersDiv,
+.followingDiv {
+  top: 131px;
+  left: 221px;
+}
+.followingDiv {
+  left: 339px;
+}
+.rectangleDiv,
+.rectangleIcon {
+  position: absolute;
+  top: 97px;
+  left: 214px;
+  border-radius: 7px;
+  width: 208px;
+  height: 24px;
+}
+.rectangleDiv {
+  top: 59px;
+  left: 560px;
+  background: linear-gradient(
+    180deg,
+    rgba(46, 51, 90, 0.3),
+    rgba(28, 27, 51, 0.3)
+  );
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-sizing: border-box;
+  width: 67px;
+}
+.editDiv {
+  position: absolute;
+  top: 63px;
+  left: 582px;
+  font-size: 13px;
+  display: inline-block;
+}
+.rectangleIcon1,
+.rectangleIcon2,
+.rectangleIcon3,
+.rectangleIcon4 {
+  position: absolute;
+  top: 187px;
+  left: 44px;
+  border-radius: 7px;
+  width: 642px;
+  height: 38px;
+}
+.rectangleIcon2,
+.rectangleIcon3,
+.rectangleIcon4 {
+  top: 273px;
+  height: 252px;
+}
+.rectangleIcon3,
+.rectangleIcon4 {
+  top: 538px;
+  left: 43px;
+  width: 236px;
+  height: 229px;
+}
+.rectangleIcon4 {
+  left: 446px;
+  width: 240px;
+}
+.followMeDiv,
+.seeAllDiv {
+  position: relative;
+  display: inline-block;
+}
+.seeAllDiv {
+  color: rgba(255, 255, 255, 0.25);
+  text-align: right;
+  display: none;
+}
+.titleDiv {
+  display: flex;
+  flex-direction: row;
+  padding: 8px 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0.55);
+}
+.titleDiv > * + * {
+  margin-left: 72px;
+}
+.polygonIcon1 {
+  position: relative;
+  border-radius: 12px;
+  width: 44px;
+  height: 44px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.w3BMumbaiSpan1 {
+  font-weight: 600;
+  font-family: Lato;
+  color: #fff;
+}
+.w3BMumbaiSpan {
+  font-size: 13px;
+}
+.w3BMumbaiInvited {
+  margin-block-start: 0;
+  margin-block-end: 8px;
+}
+.minAgoP {
+  margin: 0;
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.3);
+}
+.holaSpineInvitedYouToACh {
+  position: relative;
+  line-height: 50%;
+  display: inline-block;
+}
+.threadsDiv {
+  width: 198px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0 8px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.threadsDiv > * + * {
+  margin-left: 8px;
+}
+.activity1Div {
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.3);
+  width: 212px;
+  display: flex;
+  flex-direction: column;
+  padding: 8px 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: center;
+}
+.w3BJodhpurSpan {
+  color: #fff;
+}
+.span1 {
+  color: rgba(255, 255, 255, 0.8);
+}
+.threadsDiv1 {
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0 8px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.threadsDiv1 > * + * {
+  margin-left: 8px;
+}
+.newMembersDiv {
+  position: absolute;
+  top: 546px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.6);
+}
+.newMembersDiv > * + * {
+  margin-top: 8px;
+}
+.seeAllDiv1 {
+  position: relative;
+  color: rgba(255, 255, 255, 0.25);
+  text-align: right;
+  display: inline-block;
+}
+.titleDiv1 {
+  position: absolute;
+  top: 546px;
+  left: 460px;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.55);
+}
+.titleDiv1 > * + * {
+  margin-left: 72px;
+}
+.minAgoP2 {
+  margin: 0;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.25);
+}
+.frameDiv1 {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameDiv1 > * + * {
+  margin-left: 8px;
+}
+.frameDiv {
+  position: absolute;
+  top: 584px;
+  left: 465px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.3);
+  width: 212px;
+  height: 60px;
+  overflow: hidden;
+  text-align: left;
+}
+.minAgoP3 {
+  margin: 0;
+  font-size: 12px;
+  color: rgba(235, 235, 245, 0.3);
+}
+.newMember2 {
+  position: absolute;
+  top: 656px;
+  left: 465px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.3);
+  width: 212px;
+  display: flex;
+  flex-direction: column;
+  padding: 8px 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: center;
+  text-align: left;
+  font-size: 14px;
+}
+.photo16512113052580c08f09097Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 252.34px;
+  height: 142px;
+  object-fit: cover;
+}
+.shapeIcon {
+  position: relative;
+  width: 200px;
+  height: 164.14px;
+}
+.discussYourFavouriteMovies {
+  position: absolute;
+  top: 120px;
+  left: 12px;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.55);
+  display: inline-block;
+  width: 176px;
+  height: 48px;
+}
+.movieRecappedDiv,
+.textDiv {
+  position: absolute;
+  top: 86px;
+  left: 12px;
+  font-weight: 900;
+  display: inline-block;
+}
+.textDiv {
+  top: 133px;
+  left: 16px;
+}
+.polygonIcon4 {
+  position: absolute;
+  top: 38.86px;
+  left: 130.95px;
+  border-radius: 12px;
+  width: 58.11px;
+  height: 60.29px;
+  object-fit: cover;
+}
+.membersDiv1 {
+  position: relative;
+  font-family: Lato;
+  display: inline-block;
+}
+.membersDiv {
+  position: absolute;
+  top: 176px;
+  left: 12px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.25);
+  font-family: Adobe Blank;
+}
+.membersDiv > * + * {
+  margin-left: 4px;
+}
+.communitiesJoinedDiv,
+.frameDiv2 {
+  position: absolute;
+  font-size: 22px;
+  text-align: left;
+}
+.frameDiv2 {
+  top: 294px;
+  left: 63px;
+  border-radius: 20px;
+  background-color: #2c2f48;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+}
+.communitiesJoinedDiv {
+  top: 236px;
+  left: 44px;
+  font-weight: 900;
+  display: inline-block;
+}
+.photo15391409538238de95668cbIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 465px;
+  height: 254px;
+  object-fit: cover;
+}
+.unionIcon {
+  position: relative;
+  width: 200px;
+  height: 181.14px;
+}
+.avatarIcon {
+  position: absolute;
+  top: 40.86px;
+  left: 120.95px;
+  width: 58.11px;
+  height: 60.29px;
+}
+.titleDiv2 {
+  position: relative;
+  font-weight: 900;
+  display: inline-block;
+}
+.descriptionDiv,
+.membersDiv3 {
+  position: relative;
+  text-align: left;
+  display: inline-block;
+}
+.descriptionDiv {
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.55);
+  width: 176px;
+  height: 48px;
+  flex-shrink: 0;
+}
+.membersDiv3 {
+  font-family: Lato;
+}
+.membersDiv2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.25);
+  font-family: Adobe Blank;
+}
+.membersDiv2 > * + * {
+  margin-left: 4px;
+}
+.frameDiv3 {
+  position: absolute;
+  top: 88px;
+  left: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameDiv3 > * + * {
+  margin-top: 8px;
+}
+.recentCard4,
+.recentCard41 {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+}
+.recentCard41 {
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #2c2f48;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+}
+.recentCard4 {
+  top: 293px;
+  left: 289px;
+  font-size: 22px;
+}
+.photo15391409538238de95668cbDiv {
+  position: absolute;
+  top: -104px;
+  left: -135px;
+  width: 465px;
+  height: 254px;
+  display: none;
+}
+.unionIcon1 {
+  position: relative;
+  width: 200px;
+  height: 160.14px;
+  display: none;
+}
+.avatarIcon1,
+.frameDiv4 {
+  position: absolute;
+  display: none;
+}
+.avatarIcon1 {
+  top: 42px;
+  left: 128px;
+  width: 44px;
+  height: 44px;
+}
+.frameDiv4 {
+  top: 88px;
+  left: 12px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameDiv4 > * + * {
+  margin-top: 8px;
+}
+.recentCard5,
+.titleDiv4 {
+  position: absolute;
+  font-size: 22px;
+}
+.recentCard5 {
+  top: 293px;
+  left: 517px;
+  border-radius: 20px;
+  background-color: #393d5e;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+  width: 147px;
+  height: 201px;
+  overflow: hidden;
+}
+.titleDiv4 {
+  top: 376px;
+  left: 559px;
+  color: #5a5d75;
+  display: inline-block;
+}
+.inspectorDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #1e1d3e;
+  box-shadow: 1px 0 0 rgba(255, 255, 255, 0.1) inset;
+  width: 717px;
+  height: 797.18px;
+  overflow: hidden;
+}
+.groupDiv {
+  position: relative;
+  width: 100%;
+  height: 797.18px;
+  text-align: center;
+  font-size: 15px;
+  color: #fff;
+  font-family: Lato;
+}
